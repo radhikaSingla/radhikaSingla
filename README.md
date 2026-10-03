@@ -1,11 +1,10 @@
 # Hi, I'm Radhika Singla👋
 
-### Data Analyst | AI/ML | Full-Stack Development
+### Data Analystics | AI/ML | Full-Stack Development
 
-I'm an MCA graduate interested in building **data-driven applications, AI solutions, and practical software products**.
+I'm an MCA graduate focused on building data-driven applications, AI/ML solutions, and practical software products.
 
 I enjoy working across the journey from **data → analysis → visualization → machine learning → application development**.
-
 
 # 💻 Tech Stack:
 
