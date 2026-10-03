@@ -8,15 +8,20 @@ I enjoy working across the journey from **data → analysis → visualization �
 
 
 # 💻 Tech Stack:
-💻 Languages
+
+##💻 Languages
 Python | SQL | JavaScript | C++ | Java
-📊 Data & Analytics
+
+##📊 Data & Analytics
 Pandas | NumPy | Matplotlib | Seaborn | Power BI | Tableau | Excel
-🤖 AI / ML
+
+##🤖 AI / ML
 TensorFlow | Scikit-learn | OpenCV | NLP | Computer Vision
-🌐 Web Development
+
+##🌐 Web Development
 React | HTML | CSS | JavaScript | REST APIs
-🗄️ Database & Tools
+
+##🗄️ Database & Tools
 MySQL | PostgreSQL | Supabase | Git | GitHub | Google Colab
 
 ### 🚀 Featured Projects
