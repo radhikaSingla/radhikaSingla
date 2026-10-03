@@ -11,7 +11,7 @@ I enjoy working across the journey from **data → analysis → visualization �
 
 💻 Languages
 
-Python | SQL | JavaScript | C++ | Java
+Python | SQL | C++ | Java
 
 📊 Data & Analytics
 
